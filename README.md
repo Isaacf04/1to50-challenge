@@ -11,8 +11,13 @@ Resulting screenshot of the execution will be stored in src/screenshots.
 ## Records 
 These are the best times I got from running these tests: 
 
-- WebdriverIO
+- WebdriverIO:
+
+
 ![WebdriverIO](https://github.com/Luiszambra97/1to50-challenge/blob/master/webdriverio-example/src/record/record.png)
 
-- WebdriverJS
+
+- WebdriverJS:
+
+
 ![WebdriverJS](https://github.com/Luiszambra97/1to50-challenge/blob/master/webdriverjs-example/src/record/record.png)
