@@ -17,7 +17,7 @@ describe('Beating the game', function()  {
         for(i = 1; i < 26; i++) {
             positions[i].click();
             // Espero a que cambie el número
-            browser.pause(120);
+            browser.pause(150);
             // Recibo otro número > 25 y lo guardo en el array
             positions[parseInt(positions[i].getText())] = positions[i];
         }

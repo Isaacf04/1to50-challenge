@@ -4,7 +4,7 @@
   "description": "Selenium Webdriver framework to beat 1to50",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha src/specs/game.spec.js"
   },
   "author": "Luis Zambra",
   "license": "ISC",
