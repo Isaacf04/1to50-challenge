@@ -4,7 +4,7 @@
   "description": "webdriverio framework to beat 1to50",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/wdio ./wdio.conf.js"
+    "test": "./node_modules/.bin/wdio ./wdio.conf.js"
   },
   "author": "Luis Zambra",
   "license": "ISC",
