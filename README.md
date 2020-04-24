@@ -1,7 +1,18 @@
 # 1to50-challenge
 Possible solutions for automating the game 1to50, on WebdriverIO and WebdriverJS.
 
+## Requirements
+Please make sure to have these components installed:
+- npm
+- node v12 or above
+- java
+- Google Chrome
+
 ## Usage
+First install the dependencies:
+```javascript
+npm install
+```
 Execute the following command on any of the projects:
 ```javascript
 npm run test
