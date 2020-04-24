@@ -18,5 +18,5 @@ These are the best times I got from running these tests:
 
 - WebdriverJS:
 
-![WebdriverIO](https://github.com/Luiszambra97/1to50-challenge/blob/master/webdriverio-example/src/record/record2.png)
+![WebdriverIO](https://github.com/Luiszambra97/1to50-challenge/blob/master/webdriverjs-example/src/record/record2.png)
 
